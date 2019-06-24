@@ -1,2 +1,1 @@
-FIrst git proj yee!
-hw an stuff
+First git proj yee!
